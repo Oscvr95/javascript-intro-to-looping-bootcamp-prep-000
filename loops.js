@@ -1,4 +1,4 @@
-let strangeArray = [] 
+let strangeArray = []
 
 function addStringWithForLoop(arr) {
   for (let i = 0; i < 25; i++) {
