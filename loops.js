@@ -5,7 +5,7 @@ function forLoop(strangeArray) {
     if (i === 0) {
       strangeArray.push(`I am ${i} strange loop.`)
     } else {
-      strangeArray.push(`I am ${i} strange loop.`)
+      strangeArray.push(`I am ${i} strange loops.`)
     }
   }
   return strangeArray
